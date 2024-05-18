@@ -1,4 +1,5 @@
 Student ID: 11296303
+
 Brief Summary;
   In Task 1, I created a file named arrayManipulation and created an array of numbers and returned either the square or triple of each number depending on
   whether it was even or odd into a different array.

@@ -25,5 +25,3 @@ function processArray(array){
  var numbersArray = inputArray;
  var formattedArray = formatArrayStrings(stringsArray, numbersArray);
  console.log(formattedArray);
-
- 
